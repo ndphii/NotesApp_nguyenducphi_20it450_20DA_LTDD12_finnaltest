@@ -28,6 +28,9 @@ Features of Notes App
 -Insert, Update, Delete Operation Using Room Database
 
 -Fast
+# MVVM
+<img src="https://miro.medium.com/max/706/1*kEjRZjzQ4lxgMITbU8iidg.png" >
+
 # Screenshot 
 <img alt="splash_screen" src="screenshot/activity_splash_screen.jpg" width="30%" > <img alt="main_screen.jpg" src="screenshot/activity_main_screen.jpg" width="30%" > <img alt="fragment_create" src="screenshot/fragment_create.jpg" width="30%" > 
 <img alt="fragment_edit" src="screenshot/fragment_edit.jpg" width="30%" > <img alt="oderby_level_and_search" src="screenshot/oderby_level_and_search.jpg" width="30%" > <img alt="dialog_delete_in_fragment_edit" src="screenshot/dialog_delete_in_fragment_edit.jpg" width="30%" > 
