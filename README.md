@@ -1,6 +1,6 @@
 # Notes App
 <img src="app/src/main/res/drawable-v24/logo.png" width="20%" height="20%">
-<a href="app/Notes_App_base.apk" download><img src="https://img.shields.io/badge/download-APK-E53935.svg"></a>
+<a href="app/build.gradle" ><img src="https://img.shields.io/badge/minsdk-29-yellow.svg"></a>
 
 Notes App MVVM
 
